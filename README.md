@@ -6,6 +6,7 @@ Fitur Program
 - Memilih jurusan
 - Menyimpan data pendaftaran
 - Mengosongkan form menggunakan tombol Reset
+
 Komponen Utama GUI yang Digunakan
 JFrame digunakan sebagai jendela utama aplikasi untuk menampilkan seluruh komponen GUI.
 JPanel digunakan sebagai wadah untuk mengelompokkan komponen GUI agar susunannya lebih teratur.
